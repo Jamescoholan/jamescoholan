@@ -67,7 +67,7 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                Founder, Developer, Producer
+                Founder, Developer, Investor, Producer
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -75,17 +75,25 @@ const Hero = ({
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="https://www.syb-media.com/"
+                    href="https://www.linkedin.com/in/james-coholan-262b7592/"
                   >
-                    Get started
+                    LinkedIn
                   </Button>
                   <Button
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://www.experienceagora.com/"
+                    href="https://medium.com/me/stories/public"
                   >
-                    View on Github
+                    Articles
+                  </Button>
+                  <Button
+                    tag="a"
+                    color="primary"
+                    wideMobile
+                    href="https://medium.com/me/stories/public"
+                  >
+                    Get started
                   </Button>
                 </ButtonGroup>
               </div>
@@ -104,7 +112,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require("./../../assets/images/video-placeholder.jpg")}
+                src={require("./../../assets/images/screely-1618531745067 (0-00-00-00).png")}
                 alt="Hero"
                 width={896}
                 height={504}
