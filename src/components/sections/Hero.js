@@ -87,14 +87,6 @@ const Hero = ({
                   >
                     Articles
                   </Button>
-                  <Button
-                    tag="a"
-                    color="primary"
-                    wideMobile
-                    href="https://medium.com/me/stories/public"
-                  >
-                    Get started
-                  </Button>
                 </ButtonGroup>
               </div>
             </div>
