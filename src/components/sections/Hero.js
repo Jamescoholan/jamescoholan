@@ -5,6 +5,7 @@ import ButtonGroup from "../elements/ButtonGroup";
 import Button from "../elements/Button";
 import Image from "../elements/Image";
 import Modal from "../elements/Modal";
+import Avatar from "react-avatar";
 
 const propTypes = {
   ...SectionProps.types,
@@ -104,10 +105,9 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require("./../../assets/images/screely-1618531745067 (0-00-00-00).png")}
+                src={require("./../../assets/images/54568DA8-5227-4406-B8A1-7E797F780A20 (0-00-00-00).png")}
                 alt="Hero"
-                width={896}
-                height={504}
+                style={{ width: 300, height: 300, borderRadius: 300 / 2 }}
               />
             </a>
           </div>

@@ -43,7 +43,7 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: "Areas of Expertise",
+    title: "About",
     paragraph: "",
   };
 
