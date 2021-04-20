@@ -84,7 +84,7 @@ const Hero = ({
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://medium.com/me/stories/public"
+                    href="https://jamescoholan.medium.com/"
                   >
                     Articles
                   </Button>
