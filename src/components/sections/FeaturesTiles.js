@@ -66,7 +66,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Investing</h4>
+                  <h4 className="mt-0 mb-8">Cloud Engineer</h4>
                   <p className="m-0 text-sm"></p>
                 </div>
               </div>
