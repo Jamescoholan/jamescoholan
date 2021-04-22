@@ -69,7 +69,7 @@ const FeaturesSplit = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Technology & Innovation</h3>
                 <p className="m-0">
-                  Intensive focus on next generation technology product
+                  Intensive focus on next generation technology & product
                   development.
                 </p>
                 <p className="m-0">.</p>
@@ -79,7 +79,7 @@ const FeaturesSplit = ({
                       tag="a"
                       color="primary"
                       wideMobile
-                      href="https://www.campanileholdings.com/"
+                      href="https://jamescoholan.medium.com/campanile-holdings-investor-letter-971bda5d2a23"
                     >
                       Articles
                     </Button>
@@ -87,9 +87,9 @@ const FeaturesSplit = ({
                       tag="a"
                       color="dark"
                       wideMobile
-                      href="https://jamescoholan.medium.com/campanile-holdings-investor-letter-971bda5d2a23"
+                      href="https://main.d214lfjw3d1gst.amplifyapp.com"
                     >
-                      Projects
+                      Renaissance Labs
                     </Button>
                   </ButtonGroup>
                 </div>
@@ -118,7 +118,7 @@ const FeaturesSplit = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Digital Media & Entertainment</h3>
                 <p className="m-0">
-                  A decade of experience in Digital Media and Entertinament
+                  A decade of experience in Digital Media and Entertainment
                   across Film & Television Acting, Music Production, and
                   experience at a Major Record Label & Talent Agency.
                 </p>
