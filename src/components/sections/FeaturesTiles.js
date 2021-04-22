@@ -151,7 +151,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Entertainment</h4>
+                  <h4 className="mt-0 mb-8">Sales</h4>
                   <p className="m-0 text-sm"></p>
                 </div>
               </div>
@@ -173,7 +173,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Technology</h4>
+                  <h4 className="mt-0 mb-8">Growth Marketing</h4>
                   <p className="m-0 text-sm"></p>
                 </div>
               </div>
