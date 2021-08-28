@@ -52,7 +52,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: "Highlights",
-    paragraph: "Excellence in Execution",
+    paragraph: "",
   };
 
   return (
@@ -67,10 +67,12 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">Technology & Innovation</h3>
+                <h3 className="mt-0 mb-12">
+                  Founding Creative Director at LightTwist
+                </h3>
                 <p className="m-0">
-                  Intensive focus on next generation technology & product
-                  development.
+                  LightTwist YC21 is democratizing access to high end virtual
+                  production for every creator.
                 </p>
                 <p className="m-0">.</p>
                 <div className="reveal-from-bottom" data-reveal-delay="600">
@@ -79,17 +81,17 @@ const FeaturesSplit = ({
                       tag="a"
                       color="primary"
                       wideMobile
-                      href="https://jamescoholan.medium.com/campanile-holdings-investor-letter-971bda5d2a23"
+                      href="https://twitter.com/vikasreddy/status/1429865089356615683?s=20"
                     >
-                      Articles
+                      Demo
                     </Button>
                     <Button
                       tag="a"
                       color="dark"
                       wideMobile
-                      href="https://main.d214lfjw3d1gst.amplifyapp.com"
+                      href="https://lighttwist.io/"
                     >
-                      Renaissance Labs
+                      Site
                     </Button>
                   </ButtonGroup>
                 </div>
@@ -102,7 +104,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/AdobeStock_118793641-1320x740-1.jpeg")}
+                  src={require("/Users/jamescoholan/Desktop/Desktop - James’s MacBook Pro (2)/Production Code/JamesCoholanWebsite/src/assets/Lighttwist2.png")}
                   alt="Features split 01"
                   width={528}
                   height={396}
@@ -116,11 +118,10 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">Digital Media & Entertainment</h3>
+                <h3 className="mt-0 mb-12">SYB Creative Media</h3>
                 <p className="m-0">
-                  A decade of experience in Digital Media and Entertainment
-                  across Film & Television Acting, Music Production, and
-                  experience at a Major Record Label & Talent Agency.
+                  New Hollywood - A creative firm focused on collapsing the
+                  music indsutry pipeline end to end digitally.
                 </p>
                 <p className="m-0">.</p>
                 <div className="reveal-from-bottom" data-reveal-delay="600">

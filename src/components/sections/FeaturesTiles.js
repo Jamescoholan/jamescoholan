@@ -129,7 +129,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Media Production</h4>
+                  <h4 className="mt-0 mb-8">Virtual Media Production</h4>
                   <p className="m-0 text-sm"></p>
                 </div>
               </div>
